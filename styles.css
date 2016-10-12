@@ -1,0 +1,32 @@
+/* add your CSS here */
+
+body {
+    border-style: outset;
+    width: 340px;
+}
+div {
+    border-style: groove;
+    padding: 15px;
+}
+h3 {
+    padding-left: 10px;
+}
+img {
+    padding-bottom: 15px;
+}
+p {
+   padding-left: 10px; 
+}
+.intFact {
+    font-style: italic;
+}
+span {
+    font-weight: bold;
+}
+li {
+    list-style-type: none;
+}
+q {
+    color: #ff6600;
+    font-weight: bold;
+}
